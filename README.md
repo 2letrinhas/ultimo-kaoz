@@ -1,2 +1,2 @@
-# Kaoz-2
-Projeto Dois
+# site-alura-plus
+Projeto 2 Segundo ano
